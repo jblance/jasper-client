@@ -1,7 +1,7 @@
 Clone of jasper-client
 =============
 
-[![Build Status](https://travis-ci.org/jblance/jasper-client.svg?branch=master)](https://travis-ci.org/jblance/jasper-client) [![Coverage Status](https://img.shields.io/coveralls/jblance/jasper-client.svg)](https://coveralls.io/r/jblance/jasper-client) [![Codacy Badge](https://www.codacy.com/project/badge/3a50e1bc2261419894d76b7e2c1ac694)](https://www.codacy.com/app/jblance/jasper-client)
+[![Build Status](https://travis-ci.org/jblance/jasper-client.svg?branch=jasper-dev)](https://travis-ci.org/jblance/jasper-client) [![Coverage Status](https://img.shields.io/coveralls/jblance/jasper-client.svg)](https://coveralls.io/r/jblance/jasper-client) [![Codacy Badge](https://www.codacy.com/project/badge/3a50e1bc2261419894d76b7e2c1ac694)](https://www.codacy.com/app/jblance/jasper-client)
 
 Client code for the Jasper voice computing platform. Jasper is an open source platform for developing always-on, voice-controlled applications.
 
