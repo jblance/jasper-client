@@ -17,7 +17,5 @@ Jasper. Thanks a lot!
     Andrew Stahlman <andrew.stahlman@gmail.com>
     James Timmons
 
-*Please alphabetize new entries*
-
-We'd also like to thank all the people who reported bugs, helped
+The original authors also like to thank all the people who reported bugs, helped
 answer newbie questions, and generally made Jasper better.
